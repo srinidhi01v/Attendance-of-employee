@@ -1,0 +1,16 @@
+Attendance of the employee:
+1.Pre-request
+
+ *Register with our finger(first step)
+
+2.Scenario:
+
+*Attendance type
+
+*Fingerprint
+
+*verifying the fingerprint in the Database
+
+*After succesfull verification of fingerprint
+
+*Displayed as Attendance is saved
